@@ -1,0 +1,14 @@
+{
+  "name": "iff-proxy",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.13",
+    "@vercel/node": "^3.2.29",
+    "typescript": "^5.9.2"
+  }
+}
